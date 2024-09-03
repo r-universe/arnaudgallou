@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "pakret"]
+	path = pakret
+	url = https://github.com/arnaudgallou/pakret
 [submodule "plume"]
 	path = plume
 	url = https://github.com/arnaudgallou/plume
